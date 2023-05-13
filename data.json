@@ -1,535 +1,1060 @@
 {
-    "status": 200,
-    "current_page": 1,
-    "total_pages": 5,
-    "data": [
-        {
-            "id": 2171412,
-            "title": "Inside Sales Associate",
-            "company": "Internshala",
-            "company_logo": "https://internshala.com/cached_uploads/logo%2F5e311f012fcb31580277505.jpg",
-            "location": "Gurgaon",
-            "duration": "Starts Immediately",
-            "link": "https://internshala.com/job/detail/inside-sales-associate-fresher-jobs-in-gurgaon-at-internshala1683551461",
-            "stipend": "0-5 years experience",
-            "other_info": [
-                "Job"
-            ]
-        },
-        {
-            "id": 2175854,
-            "title": "Full Stack Development",
-            "company": "Visity",
-            "company_logo": "https://internshala.com/cached_uploads/logo%2F636ecdfbd16ec1668206075.png",
-            "location": "Work From Home",
-            "duration": "Starts immediatelyImmediately",
-            "link": "https://internshala.com/internship/detail/full-stack-development-work-from-home-job-internship-at-visity1683901241",
-            "stipend": "5,000 /month",
-            "other_info": [
-                "Internship with job offer"
-            ]
-        },
-        {
-            "id": 2175689,
-            "title": "Backend Development",
-            "company": "The MetroMax Group",
-            "company_logo": "https://internshala.com/cached_uploads/logo%2F63b68f08ace421672908552.png",
-            "location": "Work From Home",
-            "duration": "Starts immediatelyImmediately",
-            "link": "https://internshala.com/internship/detail/backend-development-work-from-home-job-internship-at-the-metromax-group1683892348",
-            "stipend": "10,000 /month",
-            "other_info": [
-                "Internship"
-            ]
-        },
-        {
-            "id": 2175436,
-            "title": "Angular Development",
-            "company": "Intelliassist.co",
-            "company_logo": "https://internshala.com/cached_uploads/logo%2F6333e159e57371664344409.png",
-            "location": "Work From Home",
-            "duration": "Starts immediatelyImmediately",
-            "link": "https://internshala.com/internship/detail/angular-development-work-from-home-job-internship-at-intelliassistco1683882803",
-            "stipend": "10,000 /month",
-            "other_info": [
-                "Internship",
-                "Part time allowed"
-            ]
-        },
-        {
-            "id": 2175115,
-            "title": "Web Design/Development - WordPress & PHP",
-            "company": "In2In Global",
-            "company_logo": "https://internshala.com/cached_uploads/logo%2F63c92ce1a0f1d1674128609.png",
-            "location": "Work From Home",
-            "duration": "Starts immediatelyImmediately",
-            "link": "https://internshala.com/internship/detail/web-design-development-wordpress-php-work-from-home-job-internship-at-in2in-global1683884277",
-            "stipend": "5,000 /month",
-            "other_info": [
-                "Internship"
-            ]
-        },
-        {
-            "id": 2173851,
-            "title": "Web Development",
-            "company": "NeetGurumantra",
-            "company_logo": "https://internshala.com/cached_uploads/logo%2F5e2fdc6ea77a31580194926.jpg",
-            "location": "Work From Home",
-            "duration": "Starts immediatelyImmediately",
-            "link": "https://internshala.com/internship/detail/web-development-work-from-home-job-internship-at-neetgurumantra1683756446",
-            "stipend": "20,000 /month +  Incentives",
-            "other_info": [
-                "Internship",
-                "Part time allowed"
-            ]
-        },
-        {
-            "id": 2175421,
-            "title": "Flutter Development",
-            "company": "Infoware",
-            "company_logo": "https://internshala.comundefined",
-            "location": "Work From Home",
-            "duration": "Starts immediatelyImmediately",
-            "link": "https://internshala.com/internship/detail/flutter-development-work-from-home-job-internship-at-infoware1683882326",
-            "stipend": "6,000 /month",
-            "other_info": [
-                "Internship"
-            ]
-        },
-        {
-            "id": 2175380,
-            "title": "Backend Development",
-            "company": "Instahyre",
-            "company_logo": "https://internshala.com/cached_uploads/logo%2F5e2fddd63aaf21580195286.png",
-            "location": "Work From Home",
-            "duration": "Starts immediatelyImmediately",
-            "link": "https://internshala.com/internship/detail/backend-development-work-from-home-job-internship-at-instahyre1683880123",
-            "stipend": "30,000 /month",
-            "other_info": [
-                "Internship with job offer"
-            ]
-        },
-        {
-            "id": 2175314,
-            "title": "ASP.NET Development",
-            "company": "Blackcoffer",
-            "company_logo": "https://internshala.com/cached_uploads/logo%2F5e2fdce8a376f1580195048.png",
-            "location": "Work From Home",
-            "duration": "Starts immediatelyImmediately",
-            "link": "https://internshala.com/internship/detail/aspnet-development-work-from-home-job-internship-at-blackcoffer1683876822",
-            "stipend": "6,000-12,000 /month",
-            "other_info": [
-                "Internship with job offer"
-            ]
-        },
-        {
-            "id": 2174945,
-            "title": "MLOPs, Speech Recognition & Image Processing",
-            "company": "BusYar",
-            "company_logo": "https://internshala.comundefined",
-            "location": "Work From Home",
-            "duration": "Starts immediatelyImmediately",
-            "link": "https://internshala.com/internship/detail/mlops-speech-recognition-image-processing-work-from-home-job-internship-at-busyar1683827101",
-            "stipend": "5,000-7,000 /month",
-            "other_info": [
-                "Internship",
-                "Part time allowed"
-            ]
-        },
-        {
-            "id": 2175116,
-            "title": "MERN Stack Development",
-            "company": "Across The Globe (ATG)",
-            "company_logo": "https://internshala.com/cached_uploads/logo%2F632b287d5668f1663772797.jpg",
-            "location": "Work From Home",
-            "duration": "Starts immediatelyImmediately",
-            "link": "https://internshala.com/internship/detail/mern-stack-development-work-from-home-job-internship-at-across-the-globe-atg1683869494",
-            "stipend": "4,000-10,000 /month",
-            "other_info": [
-                "Internship"
-            ]
-        },
-        {
-            "id": 2174824,
-            "title": "Web Development",
-            "company": "Wormos",
-            "company_logo": "https://internshala.com/cached_uploads/logo%2F62549a7e12e7d1649711742.png",
-            "location": "Work From Home",
-            "duration": "Starts immediatelyImmediately",
-            "link": "https://internshala.com/internship/detail/web-development-work-from-home-job-internship-at-wormos1683811370",
-            "stipend": "4,000 /month",
-            "other_info": [
-                "Internship",
-                "Part time allowed"
-            ]
-        },
-        {
-            "id": 2174816,
-            "title": "Full Stack Development",
-            "company": "Giga Growth Ventures",
-            "company_logo": "https://internshala.comundefined",
-            "location": "Work From Home",
-            "duration": "Starts immediatelyImmediately",
-            "link": "https://internshala.com/internship/detail/full-stack-development-work-from-home-job-internship-at-giga-growth-ventures1683810984",
-            "stipend": "10,000 /month",
-            "other_info": [
-                "Internship"
-            ]
-        },
-        {
-            "id": 2174426,
-            "title": "Advanced PHP & Full Stack Development",
-            "company": "Filium Enterprises Private Limited",
-            "company_logo": "https://internshala.com/cached_uploads/logo%2F617cfb72942e31635580786.png",
-            "location": "Work From Home",
-            "duration": "Starts immediatelyImmediately",
-            "link": "https://internshala.com/internship/detail/advanced-php-full-stack-development-work-from-home-job-internship-at-filium-enterprises-private-limited1683797442",
-            "stipend": "7,000 /month",
-            "other_info": [
-                "Internship"
-            ]
-        },
-        {
-            "id": 2174646,
-            "title": "Django Development",
-            "company": "GharChalo",
-            "company_logo": "https://internshala.com/cached_uploads/logo%2F5ecd50c81a3f51590513864.png",
-            "location": "Work From Home",
-            "duration": "Starts immediatelyImmediately",
-            "link": "https://internshala.com/internship/detail/django-development-work-from-home-job-internship-at-gharchalo1683806191",
-            "stipend": "10,000 /month",
-            "other_info": [
-                "Internship",
-                "Part time allowed"
-            ]
-        },
-        {
-            "id": 2174536,
-            "title": "Full Stack Development",
-            "company": "Dobby Ads",
-            "company_logo": "https://internshala.com/cached_uploads/logo%2F60fa898b5bdd11627031947.png",
-            "location": "Work From Home",
-            "duration": "Starts immediatelyImmediately",
-            "link": "https://internshala.com/internship/detail/full-stack-development-work-from-home-job-internship-at-dobby-ads1683805598",
-            "stipend": "15,000-20,000 /month",
-            "other_info": [
-                "Internship"
-            ]
-        },
-        {
-            "id": 2172703,
-            "title": "Web Development (SvelteJS)",
-            "company": "KlimBB (Zerotown Business Technologies Private Limited)",
-            "company_logo": "https://internshala.comundefined",
-            "location": "Work From Home",
-            "duration": "Starts immediatelyImmediately",
-            "link": "https://internshala.com/internship/detail/web-development-sveltejs-work-from-home-job-internship-at-klimbb-zerotown-business-technologies-private-limited1683869614",
-            "stipend": "10,000 /month",
-            "other_info": [
-                "Internship with job offer"
-            ]
-        },
-        {
-            "id": 2174275,
-            "title": "PHP Development",
-            "company": "WebShark Web Services",
-            "company_logo": "https://internshala.com/cached_uploads/logo%2F5e5293fbe60ca1582470139.png",
-            "location": "Work From Home",
-            "duration": "Starts immediatelyImmediately",
-            "link": "https://internshala.com/internship/detail/php-development-work-from-home-job-internship-at-webshark-web-services1683791993",
-            "stipend": "18,000-22,000 /month",
-            "other_info": [
-                "Internship"
-            ]
-        },
-        {
-            "id": 2173739,
-            "title": "Website Design",
-            "company": "Digi Chirag",
-            "company_logo": "https://internshala.com/cached_uploads/logo%2F5f83f007b3a041602482183.png",
-            "location": "Work From Home",
-            "duration": "Starts immediatelyImmediately",
-            "link": "https://internshala.com/internship/detail/website-design-work-from-home-job-internship-at-digi-chirag1683798514",
-            "stipend": "5,000 /month",
-            "other_info": [
-                "Internship"
-            ]
-        },
-        {
-            "id": 2174404,
-            "title": "Full Stack Development",
-            "company": "Instahyre",
-            "company_logo": "https://internshala.com/cached_uploads/logo%2F5e2fddd63aaf21580195286.png",
-            "location": "Work From Home",
-            "duration": "Starts immediatelyImmediately",
-            "link": "https://internshala.com/internship/detail/full-stack-development-work-from-home-job-internship-at-instahyre1683796791",
-            "stipend": "28,000 /month",
-            "other_info": [
-                "Internship with job offer"
-            ]
-        },
-        {
-            "id": 2174402,
-            "title": "Python Development",
-            "company": "Instahyre",
-            "company_logo": "https://internshala.com/cached_uploads/logo%2F5e2fddd63aaf21580195286.png",
-            "location": "Work From Home",
-            "duration": "Starts immediatelyImmediately",
-            "link": "https://internshala.com/internship/detail/python-development-work-from-home-job-internship-at-instahyre1683796740",
-            "stipend": "30,000 /month",
-            "other_info": [
-                "Internship"
-            ]
-        },
-        {
-            "id": 2170352,
-            "title": "PHP Development",
-            "company": "Shyam Dairy",
-            "company_logo": "https://internshala.comundefined",
-            "location": "Work From Home",
-            "duration": "Starts immediatelyImmediately",
-            "link": "https://internshala.com/internship/detail/php-development-work-from-home-job-internship-at-shyam-dairy1683462297",
-            "stipend": "4,000-6,000 /month",
-            "other_info": [
-                "Internship",
-                "Part time allowed"
-            ]
-        },
-        {
-            "id": 2174082,
-            "title": "PHP Development",
-            "company": "Skyline Meridian",
-            "company_logo": "https://internshala.com/cached_uploads/logo%2F645c8c54016961683786836.jpeg",
-            "location": "Work From Home",
-            "duration": "Starts immediatelyImmediately",
-            "link": "https://internshala.com/internship/detail/php-development-work-from-home-job-internship-at-skyline-meridian1683787746",
-            "stipend": "5,000 /month",
-            "other_info": [
-                "Internship with job offer"
-            ]
-        },
-        {
-            "id": 2173219,
-            "title": "Flutter Development",
-            "company": "StudyMonk",
-            "company_logo": "https://internshala.com/cached_uploads/logo%2F5e36e47ef04611580655742.png",
-            "location": "Work From Home",
-            "duration": "Starts immediatelyImmediately",
-            "link": "https://internshala.com/internship/detail/flutter-development-work-from-home-job-internship-at-studymonk1683707489",
-            "stipend": "10,000-15,000 /month",
-            "other_info": [
-                "Internship"
-            ]
-        },
-        {
-            "id": 2173914,
-            "title": "Full Stack Development",
-            "company": "Yougetplaced Technology Services",
-            "company_logo": "https://internshala.com/cached_uploads/logo%2F642799255abc31680316709.jpg",
-            "location": "Work From Home",
-            "duration": "Starts immediatelyImmediately",
-            "link": "https://internshala.com/internship/detail/full-stack-development-work-from-home-job-internship-at-yougetplaced-technology-services1683779124",
-            "stipend": "10,000 /month",
-            "other_info": [
-                "Internship"
-            ]
-        },
-        {
-            "id": 2173912,
-            "title": "JavaScript Development",
-            "company": "Yougetplaced Technology Services",
-            "company_logo": "https://internshala.com/cached_uploads/logo%2F642799255abc31680316709.jpg",
-            "location": "Work From Home",
-            "duration": "Starts immediatelyImmediately",
-            "link": "https://internshala.com/internship/detail/javascript-development-work-from-home-job-internship-at-yougetplaced-technology-services1683779076",
-            "stipend": "10,000 /month",
-            "other_info": [
-                "Internship"
-            ]
-        },
-        {
-            "id": 2173910,
-            "title": "ReactJS Development",
-            "company": "Yougetplaced Technology Services",
-            "company_logo": "https://internshala.com/cached_uploads/logo%2F642799255abc31680316709.jpg",
-            "location": "Work From Home",
-            "duration": "Starts immediatelyImmediately",
-            "link": "https://internshala.com/internship/detail/reactjs-development-work-from-home-job-internship-at-yougetplaced-technology-services1683778948",
-            "stipend": "10,000 /month",
-            "other_info": [
-                "Internship"
-            ]
-        },
-        {
-            "id": 2173909,
-            "title": "Front End Development",
-            "company": "Yougetplaced Technology Services",
-            "company_logo": "https://internshala.com/cached_uploads/logo%2F642799255abc31680316709.jpg",
-            "location": "Work From Home",
-            "duration": "Starts immediatelyImmediately",
-            "link": "https://internshala.com/internship/detail/front-end-development-work-from-home-job-internship-at-yougetplaced-technology-services1683778863",
-            "stipend": "10,000 /month",
-            "other_info": [
-                "Internship"
-            ]
-        },
-        {
-            "id": 2173908,
-            "title": "Web Development",
-            "company": "Yougetplaced Technology Services",
-            "company_logo": "https://internshala.com/cached_uploads/logo%2F642799255abc31680316709.jpg",
-            "location": "Work From Home",
-            "duration": "Starts immediatelyImmediately",
-            "link": "https://internshala.com/internship/detail/web-development-work-from-home-job-internship-at-yougetplaced-technology-services1683778792",
-            "stipend": "10,000 /month",
-            "other_info": [
-                "Internship"
-            ]
-        },
-        {
-            "id": 2173855,
-            "title": "WordPress Development",
-            "company": "Rydeu Logistics UG",
-            "company_logo": "https://internshala.com/cached_uploads/logo%2F5dffb7cf75b091577039823.jpg",
-            "location": "Work From Home",
-            "duration": "Starts immediatelyImmediately",
-            "link": "https://internshala.com/internship/detail/wordpress-development-work-from-home-job-internship-at-rydeu-logistics-ug1683757773",
-            "stipend": "8,000-12,000 /month",
-            "other_info": [
-                "Internship",
-                "Part time allowed"
-            ]
-        },
-        {
-            "id": 2172832,
-            "title": "Flutter Development",
-            "company": "IfStatic Technology Private Limited",
-            "company_logo": "https://internshala.comundefined",
-            "location": "Work From Home",
-            "duration": "Starts immediatelyImmediately",
-            "link": "https://internshala.com/internship/detail/flutter-development-work-from-home-job-internship-at-ifstatic-technology-private-limited1683693435",
-            "stipend": "8,000 /month",
-            "other_info": [
-                "Internship with job offer"
-            ]
-        },
-        {
-            "id": 2173646,
-            "title": "Web Development",
-            "company": "Dailyonlineoffer",
-            "company_logo": "https://internshala.comundefined",
-            "location": "Work From Home",
-            "duration": "Starts immediatelyImmediately",
-            "link": "https://internshala.com/internship/detail/web-development-work-from-home-job-internship-at-dailyonlineoffer1683723896",
-            "stipend": "5,000-8,000 /month",
-            "other_info": [
-                "Internship"
-            ]
-        },
-        {
-            "id": 2170525,
-            "title": "Web Development- Backend",
-            "company": "Pipesort Technologies LLP",
-            "company_logo": "https://internshala.com/cached_uploads/logo%2F5eabc8b31f8c71588316339.png",
-            "location": "Work From Home",
-            "duration": "Starts immediatelyImmediately",
-            "link": "https://internshala.com/internship/detail/web-development-backend-work-from-home-job-internship-at-pipesort-technologies-llp1683720475",
-            "stipend": "10,000 /month",
-            "other_info": [
-                "Internship"
-            ]
-        },
-        {
-            "id": 2173016,
-            "title": "PHP Development",
-            "company": "UCPro LLP",
-            "company_logo": "https://internshala.comundefined",
-            "location": "Work From Home",
-            "duration": "Starts immediatelyImmediately",
-            "link": "https://internshala.com/internship/detail/php-development-work-from-home-job-internship-at-ucpro-llp1683700969",
-            "stipend": "3,000-5,000 /month",
-            "other_info": [
-                "Internship"
-            ]
-        },
-        {
-            "id": 2172343,
-            "title": "Angular Development",
-            "company": "Thinklayer Minds Private Limited",
-            "company_logo": "https://internshala.comundefined",
-            "location": "Work From Home",
-            "duration": "Starts immediatelyImmediately",
-            "link": "https://internshala.com/internship/detail/angular-development-work-from-home-job-internship-at-thinklayer-minds-private-limited1683705557",
-            "stipend": "8,000-10,000 /month",
-            "other_info": [
-                "Internship"
-            ]
-        },
-        {
-            "id": 2172551,
-            "title": "DSA+MERN Stack Mentoring",
-            "company": "Codefeast",
-            "company_logo": "https://internshala.com/cached_uploads/logo%2F60a8dae9093091621678825.jpg",
-            "location": "Work From Home",
-            "duration": "Starts immediatelyImmediately",
-            "link": "https://internshala.com/internship/detail/dsa-mern-stack-mentoring-work-from-home-job-internship-at-codefeast1683697068",
-            "stipend": "12,000-25,000 /month",
-            "other_info": [
-                "Internship",
-                "Part time allowed"
-            ]
-        },
-        {
-            "id": 2154644,
-            "title": "Ionic - Angular Development",
-            "company": "Sanvi Creations",
-            "company_logo": "https://internshala.com/cached_uploads/logo%2F6443a7f4e18441682155508.jpg",
-            "location": "Work From Home",
-            "duration": "Starts immediatelyImmediately",
-            "link": "https://internshala.com/internship/detail/ionic-angular-development-work-from-home-job-internship-at-sanvi-creations1683693949",
-            "stipend": "6,000 /month",
-            "other_info": [
-                "Internship"
-            ]
-        },
-        {
-            "id": 2172607,
-            "title": "WordPress Development",
-            "company": "Blackcoffer",
-            "company_logo": "https://internshala.com/cached_uploads/logo%2F5e2fdce8a376f1580195048.png",
-            "location": "Work From Home",
-            "duration": "Starts immediatelyImmediately",
-            "link": "https://internshala.com/internship/detail/wordpress-development-work-from-home-job-internship-at-blackcoffer1683639458",
-            "stipend": "5,000-7,000 /month",
-            "other_info": [
-                "Internship"
-            ]
-        },
-        {
-            "id": 2172780,
-            "title": "Backend Node PostgreSQL Development",
-            "company": "StudyMonk",
-            "company_logo": "https://internshala.com/cached_uploads/logo%2F5e36e47ef04611580655742.png",
-            "location": "Work From Home",
-            "duration": "Starts immediatelyImmediately",
-            "link": "https://internshala.com/internship/detail/backend-node-postgresql-development-work-from-home-job-internship-at-studymonk1683679149",
-            "stipend": "20,000 /month",
-            "other_info": [
-                "Internship"
-            ]
-        },
-        {
-            "id": 2172777,
-            "title": "Flutter Development",
-            "company": "StudyMonk",
-            "company_logo": "https://internshala.com/cached_uploads/logo%2F5e36e47ef04611580655742.png",
-            "location": "Work From Home",
-            "duration": "Starts immediatelyImmediately",
-            "link": "https://internshala.com/internship/detail/flutter-development-work-from-home-job-internship-at-studymonk1683678906",
-            "stipend": "15,000-20,000 /month",
-            "other_info": [
-                "Internship"
-            ]
-        }
-    ]
+  "data": [
+    {
+      "id": 2171412,
+      "title": "Inside Sales Associate",
+      "company": "Internshala",
+      "company_logo": "https://internshala.com/cached_uploads/logo%2F5e311f012fcb31580277505.jpg",
+      "location": "Gurgaon",
+      "duration": "Starts Immediately",
+      "link": "https://internshala.com/job/detail/inside-sales-associate-fresher-jobs-in-gurgaon-at-internshala1683551461",
+      "stipend": "0-5 years experience",
+      "other_info": [
+        "Job"
+      ]
+    },
+    {
+      "id": 2176191,
+      "title": "PHP Development",
+      "company": "Healtholife Healthcare Private Limited",
+      "company_logo": "https://internshala.com/cached_uploads/logo%2F638836040ba171669871108.png",
+      "location": "Work From Home",
+      "duration": "Starts immediatelyImmediately",
+      "link": "https://internshala.com/internship/detail/php-development-work-from-home-job-internship-at-healtholife-healthcare-private-limited1683963608",
+      "stipend": "7,000-10,000 /month",
+      "other_info": [
+        "Internship"
+      ]
+    },
+    {
+      "id": 2175879,
+      "title": "Flutter Development",
+      "company": "Botlie Software And Consulting Private Limited",
+      "company_logo": "https://internshala.com/cached_uploads/logo%2F62d7cc3d2b3811658309693.png",
+      "location": "Work From Home",
+      "duration": "Starts immediatelyImmediately",
+      "link": "https://internshala.com/internship/detail/flutter-development-work-from-home-job-internship-at-botlie-software-and-consulting-private-limited1683903460",
+      "stipend": "10,000-25,000 /month",
+      "other_info": [
+        "Internship"
+      ]
+    },
+    {
+      "id": 2175875,
+      "title": "Node.js Development",
+      "company": "Botlie Software And Consulting Private Limited",
+      "company_logo": "https://internshala.com/cached_uploads/logo%2F62d7cc3d2b3811658309693.png",
+      "location": "Work From Home",
+      "duration": "Starts immediatelyImmediately",
+      "link": "https://internshala.com/internship/detail/nodejs-development-work-from-home-job-internship-at-botlie-software-and-consulting-private-limited1683903269",
+      "stipend": "10,000-25,000 /month",
+      "other_info": [
+        "Internship"
+      ]
+    },
+    {
+      "id": 2175871,
+      "title": "ReactJS Development",
+      "company": "Botlie Software And Consulting Private Limited",
+      "company_logo": "https://internshala.com/cached_uploads/logo%2F62d7cc3d2b3811658309693.png",
+      "location": "Work From Home",
+      "duration": "Starts immediatelyImmediately",
+      "link": "https://internshala.com/internship/detail/reactjs-development-work-from-home-job-internship-at-botlie-software-and-consulting-private-limited1683903086",
+      "stipend": "10,000-25,000 /month",
+      "other_info": [
+        "Internship with job offer"
+      ]
+    },
+    {
+      "id": 2175436,
+      "title": "Angular Development",
+      "company": "Intelliassist.co",
+      "company_logo": "https://internshala.com/cached_uploads/logo%2F6333e159e57371664344409.png",
+      "location": "Work From Home",
+      "duration": "Starts immediatelyImmediately",
+      "link": "https://internshala.com/internship/detail/angular-development-work-from-home-job-internship-at-intelliassistco1683882803",
+      "stipend": "10,000 /month",
+      "other_info": [
+        "Internship",
+        "Part time allowed"
+      ]
+    },
+    {
+      "id": 2175380,
+      "title": "Backend Development",
+      "company": "Instahyre",
+      "company_logo": "https://internshala.com/cached_uploads/logo%2F5e2fddd63aaf21580195286.png",
+      "location": "Work From Home",
+      "duration": "Starts immediatelyImmediately",
+      "link": "https://internshala.com/internship/detail/backend-development-work-from-home-job-internship-at-instahyre1683880123",
+      "stipend": "30,000 /month",
+      "other_info": [
+        "Internship with job offer"
+      ]
+    },
+    {
+      "id": 2175314,
+      "title": "ASP.NET Development",
+      "company": "Blackcoffer",
+      "company_logo": "https://internshala.com/cached_uploads/logo%2F5e2fdce8a376f1580195048.png",
+      "location": "Work From Home",
+      "duration": "Starts immediatelyImmediately",
+      "link": "https://internshala.com/internship/detail/aspnet-development-work-from-home-job-internship-at-blackcoffer1683876822",
+      "stipend": "6,000-12,000 /month",
+      "other_info": [
+        "Internship with job offer"
+      ]
+    },
+    {
+      "id": 2175116,
+      "title": "MERN Stack Development",
+      "company": "Across The Globe (ATG)",
+      "company_logo": "https://internshala.com/cached_uploads/logo%2F632b287d5668f1663772797.jpg",
+      "location": "Work From Home",
+      "duration": "Starts immediatelyImmediately",
+      "link": "https://internshala.com/internship/detail/mern-stack-development-work-from-home-job-internship-at-across-the-globe-atg1683869494",
+      "stipend": "4,000-10,000 /month",
+      "other_info": [
+        "Internship"
+      ]
+    },
+    {
+      "id": 2174646,
+      "title": "Django Development",
+      "company": "GharChalo",
+      "company_logo": "https://internshala.com/cached_uploads/logo%2F5ecd50c81a3f51590513864.png",
+      "location": "Work From Home",
+      "duration": "Starts immediatelyImmediately",
+      "link": "https://internshala.com/internship/detail/django-development-work-from-home-job-internship-at-gharchalo1683806191",
+      "stipend": "10,000 /month",
+      "other_info": [
+        "Internship",
+        "Part time allowed"
+      ]
+    },
+    {
+      "id": 2174536,
+      "title": "Full Stack Development",
+      "company": "Dobby Ads",
+      "company_logo": "https://internshala.com/cached_uploads/logo%2F60fa898b5bdd11627031947.png",
+      "location": "Work From Home",
+      "duration": "Starts immediatelyImmediately",
+      "link": "https://internshala.com/internship/detail/full-stack-development-work-from-home-job-internship-at-dobby-ads1683805598",
+      "stipend": "15,000-20,000 /month",
+      "other_info": [
+        "Internship"
+      ]
+    },
+    {
+      "id": 2174404,
+      "title": "Full Stack Development",
+      "company": "Instahyre",
+      "company_logo": "https://internshala.com/cached_uploads/logo%2F5e2fddd63aaf21580195286.png",
+      "location": "Work From Home",
+      "duration": "Starts immediatelyImmediately",
+      "link": "https://internshala.com/internship/detail/full-stack-development-work-from-home-job-internship-at-instahyre1683796791",
+      "stipend": "28,000 /month",
+      "other_info": [
+        "Internship with job offer"
+      ]
+    },
+    {
+      "id": 2174402,
+      "title": "Python Development",
+      "company": "Instahyre",
+      "company_logo": "https://internshala.com/cached_uploads/logo%2F5e2fddd63aaf21580195286.png",
+      "location": "Work From Home",
+      "duration": "Starts immediatelyImmediately",
+      "link": "https://internshala.com/internship/detail/python-development-work-from-home-job-internship-at-instahyre1683796740",
+      "stipend": "30,000 /month",
+      "other_info": [
+        "Internship"
+      ]
+    },
+    {
+      "id": 2173219,
+      "title": "Flutter Development",
+      "company": "StudyMonk",
+      "company_logo": "https://internshala.com/cached_uploads/logo%2F5e36e47ef04611580655742.png",
+      "location": "Work From Home",
+      "duration": "Starts immediatelyImmediately",
+      "link": "https://internshala.com/internship/detail/flutter-development-work-from-home-job-internship-at-studymonk1683707489",
+      "stipend": "10,000-15,000 /month",
+      "other_info": [
+        "Internship"
+      ]
+    },
+    {
+      "id": 2173914,
+      "title": "Full Stack Development",
+      "company": "Yougetplaced Technology Services",
+      "company_logo": "https://internshala.com/cached_uploads/logo%2F642799255abc31680316709.jpg",
+      "location": "Work From Home",
+      "duration": "Starts immediatelyImmediately",
+      "link": "https://internshala.com/internship/detail/full-stack-development-work-from-home-job-internship-at-yougetplaced-technology-services1683779124",
+      "stipend": "10,000 /month",
+      "other_info": [
+        "Internship"
+      ]
+    },
+    {
+      "id": 2173912,
+      "title": "JavaScript Development",
+      "company": "Yougetplaced Technology Services",
+      "company_logo": "https://internshala.com/cached_uploads/logo%2F642799255abc31680316709.jpg",
+      "location": "Work From Home",
+      "duration": "Starts immediatelyImmediately",
+      "link": "https://internshala.com/internship/detail/javascript-development-work-from-home-job-internship-at-yougetplaced-technology-services1683779076",
+      "stipend": "10,000 /month",
+      "other_info": [
+        "Internship"
+      ]
+    },
+    {
+      "id": 2173910,
+      "title": "ReactJS Development",
+      "company": "Yougetplaced Technology Services",
+      "company_logo": "https://internshala.com/cached_uploads/logo%2F642799255abc31680316709.jpg",
+      "location": "Work From Home",
+      "duration": "Starts immediatelyImmediately",
+      "link": "https://internshala.com/internship/detail/reactjs-development-work-from-home-job-internship-at-yougetplaced-technology-services1683778948",
+      "stipend": "10,000 /month",
+      "other_info": [
+        "Internship"
+      ]
+    },
+    {
+      "id": 2173909,
+      "title": "Front End Development",
+      "company": "Yougetplaced Technology Services",
+      "company_logo": "https://internshala.com/cached_uploads/logo%2F642799255abc31680316709.jpg",
+      "location": "Work From Home",
+      "duration": "Starts immediatelyImmediately",
+      "link": "https://internshala.com/internship/detail/front-end-development-work-from-home-job-internship-at-yougetplaced-technology-services1683778863",
+      "stipend": "10,000 /month",
+      "other_info": [
+        "Internship"
+      ]
+    },
+    {
+      "id": 2173908,
+      "title": "Web Development",
+      "company": "Yougetplaced Technology Services",
+      "company_logo": "https://internshala.com/cached_uploads/logo%2F642799255abc31680316709.jpg",
+      "location": "Work From Home",
+      "duration": "Starts immediatelyImmediately",
+      "link": "https://internshala.com/internship/detail/web-development-work-from-home-job-internship-at-yougetplaced-technology-services1683778792",
+      "stipend": "10,000 /month",
+      "other_info": [
+        "Internship"
+      ]
+    },
+    {
+      "id": 2173855,
+      "title": "WordPress Development",
+      "company": "Rydeu Logistics UG",
+      "company_logo": "https://internshala.com/cached_uploads/logo%2F5dffb7cf75b091577039823.jpg",
+      "location": "Work From Home",
+      "duration": "Starts immediatelyImmediately",
+      "link": "https://internshala.com/internship/detail/wordpress-development-work-from-home-job-internship-at-rydeu-logistics-ug1683757773",
+      "stipend": "8,000-12,000 /month",
+      "other_info": [
+        "Internship",
+        "Part time allowed"
+      ]
+    },
+    {
+      "id": 2170525,
+      "title": "Web Development- Backend",
+      "company": "Pipesort Technologies LLP",
+      "company_logo": "https://internshala.com/cached_uploads/logo%2F5eabc8b31f8c71588316339.png",
+      "location": "Work From Home",
+      "duration": "Starts immediatelyImmediately",
+      "link": "https://internshala.com/internship/detail/web-development-backend-work-from-home-job-internship-at-pipesort-technologies-llp1683720475",
+      "stipend": "10,000 /month",
+      "other_info": [
+        "Internship"
+      ]
+    },
+    {
+      "id": 2172343,
+      "title": "Angular Development",
+      "company": "Thinklayer Minds Private Limited",
+      "company_logo": "https://internshala.comundefined",
+      "location": "Work From Home",
+      "duration": "Starts immediatelyImmediately",
+      "link": "https://internshala.com/internship/detail/angular-development-work-from-home-job-internship-at-thinklayer-minds-private-limited1683705557",
+      "stipend": "8,000-10,000 /month",
+      "other_info": [
+        "Internship"
+      ]
+    },
+    {
+      "id": 2172551,
+      "title": "DSA+MERN Stack Mentoring",
+      "company": "Codefeast",
+      "company_logo": "https://internshala.com/cached_uploads/logo%2F60a8dae9093091621678825.jpg",
+      "location": "Work From Home",
+      "duration": "Starts immediatelyImmediately",
+      "link": "https://internshala.com/internship/detail/dsa-mern-stack-mentoring-work-from-home-job-internship-at-codefeast1683697068",
+      "stipend": "12,000-25,000 /month",
+      "other_info": [
+        "Internship",
+        "Part time allowed"
+      ]
+    },
+    {
+      "id": 2172780,
+      "title": "Backend Node PostgreSQL Development",
+      "company": "StudyMonk",
+      "company_logo": "https://internshala.com/cached_uploads/logo%2F5e36e47ef04611580655742.png",
+      "location": "Work From Home",
+      "duration": "Starts immediatelyImmediately",
+      "link": "https://internshala.com/internship/detail/backend-node-postgresql-development-work-from-home-job-internship-at-studymonk1683679149",
+      "stipend": "20,000 /month",
+      "other_info": [
+        "Internship"
+      ]
+    },
+    {
+      "id": 2172777,
+      "title": "Flutter Development",
+      "company": "StudyMonk",
+      "company_logo": "https://internshala.com/cached_uploads/logo%2F5e36e47ef04611580655742.png",
+      "location": "Work From Home",
+      "duration": "Starts immediatelyImmediately",
+      "link": "https://internshala.com/internship/detail/flutter-development-work-from-home-job-internship-at-studymonk1683678906",
+      "stipend": "15,000-20,000 /month",
+      "other_info": [
+        "Internship"
+      ]
+    },
+    {
+      "id": 2172774,
+      "title": "Backend Development",
+      "company": "StudyMonk",
+      "company_logo": "https://internshala.com/cached_uploads/logo%2F5e36e47ef04611580655742.png",
+      "location": "Work From Home",
+      "duration": "Starts immediatelyImmediately",
+      "link": "https://internshala.com/internship/detail/backend-development-work-from-home-job-internship-at-studymonk1683678119",
+      "stipend": "15,000-20,000 /month",
+      "other_info": [
+        "Internship"
+      ]
+    },
+    {
+      "id": 2172099,
+      "title": "Teaching (Java Full Stack Development)",
+      "company": "CipherSchools",
+      "company_logo": "https://internshala.com/cached_uploads/logo%2F627e123526fe51652429365.png",
+      "location": "Work From Home",
+      "duration": "Starts immediatelyImmediately",
+      "link": "https://internshala.com/internship/detail/teaching-java-full-stack-development-work-from-home-job-internship-at-cipherschools1683621348",
+      "stipend": "40,000-60,000 /month",
+      "other_info": [
+        "Internship",
+        "Part time allowed"
+      ]
+    },
+    {
+      "id": 2171834,
+      "title": "Backend Development (.NET)",
+      "company": "Reveation Labs",
+      "company_logo": "https://internshala.com/cached_uploads/logo%2F6380621e4c16d1669358110.png",
+      "location": "Work From Home",
+      "duration": "Starts immediatelyImmediately",
+      "link": "https://internshala.com/internship/detail/backend-development-net-work-from-home-job-internship-at-reveation-labs1683611398",
+      "stipend": "10,000 /month",
+      "other_info": [
+        "Internship"
+      ]
+    },
+    {
+      "id": 2171634,
+      "title": "JavaScript Development",
+      "company": "Sarg",
+      "company_logo": "https://internshala.com/cached_uploads/logo%2F640fe5069a1c91678763270.jpeg",
+      "location": "Work From Home",
+      "duration": "Starts immediatelyImmediately",
+      "link": "https://internshala.com/internship/detail/javascript-development-work-from-home-job-internship-at-sarg1683573498",
+      "stipend": "20,000-30,000 /month",
+      "other_info": [
+        "Internship with job offer",
+        "Part time allowed"
+      ]
+    },
+    {
+      "id": 2171817,
+      "title": "Front End Development",
+      "company": "Fyle",
+      "company_logo": "https://internshala.com/cached_uploads/logo%2F5e2fdd205fe081580195104.png",
+      "location": "Work From Home",
+      "duration": "Starts immediatelyImmediately",
+      "link": "https://internshala.com/internship/detail/front-end-development-work-from-home-job-internship-at-fyle1683610797",
+      "stipend": "35,000 /month",
+      "other_info": [
+        "Internship"
+      ]
+    },
+    {
+      "id": 2171486,
+      "title": "Webflow Development",
+      "company": "KoinBasket",
+      "company_logo": "https://internshala.com/cached_uploads/logo%2F62a81b79340de1655184249.png",
+      "location": "Work From Home",
+      "duration": "Starts immediatelyImmediately",
+      "link": "https://internshala.com/internship/detail/webflow-development-work-from-home-job-internship-at-koinbasket1683556851",
+      "stipend": "10,000 /month",
+      "other_info": [
+        "Internship"
+      ]
+    },
+    {
+      "id": 2171654,
+      "title": "Flutter Development",
+      "company": "Chaseout Technologies Private Limited",
+      "company_logo": "https://internshala.com/cached_uploads/logo%2F62f5677ba00081660249979.png",
+      "location": "Work From Home",
+      "duration": "Starts immediatelyImmediately",
+      "link": "https://internshala.com/internship/detail/flutter-development-work-from-home-job-internship-at-chaseout-technologies-private-limited1683580669",
+      "stipend": "7,000-10,000 /month",
+      "other_info": [
+        "Internship"
+      ]
+    },
+    {
+      "id": 2171473,
+      "title": "Golang Development",
+      "company": "Obliq Labs",
+      "company_logo": "https://internshala.comundefined",
+      "location": "Work From Home",
+      "duration": "Starts immediatelyImmediately",
+      "link": "https://internshala.com/internship/detail/golang-development-work-from-home-job-internship-at-obliq-labs1683555846",
+      "stipend": "10,000 /month",
+      "other_info": [
+        "Internship",
+        "Part time allowed"
+      ]
+    },
+    {
+      "id": 2171529,
+      "title": "Full Stack Development",
+      "company": "WedsIn",
+      "company_logo": "https://internshala.comundefined",
+      "location": "Work From Home",
+      "duration": "Starts immediatelyImmediately",
+      "link": "https://internshala.com/internship/detail/full-stack-development-work-from-home-job-internship-at-wedsin1683562116",
+      "stipend": "10,000 /month",
+      "other_info": [
+        "Internship with job offer"
+      ]
+    },
+    {
+      "id": 2170481,
+      "title": "ReactJS Development",
+      "company": "OyeLabs",
+      "company_logo": "https://internshala.com/cached_uploads/logo%2F5de92afc48a161575561980.jpg",
+      "location": "Work From Home",
+      "duration": "Starts immediatelyImmediately",
+      "link": "https://internshala.com/internship/detail/reactjs-development-work-from-home-job-internship-at-oyelabs1683486035",
+      "stipend": "5,000-10,000 /month",
+      "other_info": [
+        "Internship with job offer"
+      ]
+    },
+    {
+      "id": 2170356,
+      "title": "AI Startup Founder",
+      "company": "Persist Ventures",
+      "company_logo": "https://internshala.com/cached_uploads/logo%2F63b35ef24f4b61672699634.jpeg",
+      "location": "Work From Home",
+      "duration": "Starts immediatelyImmediately",
+      "link": "https://internshala.com/internship/detail/ai-startup-founder-work-from-home-job-internship-at-persist-ventures1683463308",
+      "stipend": "10,000-25,000 /month",
+      "other_info": [
+        "Internship"
+      ]
+    },
+    {
+      "id": 2170283,
+      "title": "PHP Development",
+      "company": "Digital Factorys",
+      "company_logo": "https://internshala.comundefined",
+      "location": "Work From Home",
+      "duration": "Starts immediatelyImmediately",
+      "link": "https://internshala.com/internship/detail/php-development-work-from-home-job-internship-at-digital-factorys1683450656",
+      "stipend": "20,000 /month",
+      "other_info": [
+        "Internship"
+      ]
+    },
+    {
+      "id": 2169964,
+      "title": "Full Stack Development",
+      "company": "8kSec LLC",
+      "company_logo": "https://internshala.com/cached_uploads/logo%2F6454bf8a3e3da1683275658.png",
+      "location": "Work From Home",
+      "duration": "Starts immediatelyImmediately",
+      "link": "https://internshala.com/internship/detail/full-stack-development-work-from-home-job-internship-at-8ksec-llc1683431338",
+      "stipend": "15,000 /month",
+      "other_info": [
+        "Internship"
+      ]
+    },
+    {
+      "id": 2167798,
+      "title": "Flutter Development",
+      "company": "Quantum IT Innovation",
+      "company_logo": "https://internshala.comundefined",
+      "location": "Work From Home",
+      "duration": "Starts immediatelyImmediately",
+      "link": "https://internshala.com/internship/detail/flutter-development-work-from-home-job-internship-at-quantum-it-innovation1683196257",
+      "stipend": "8,000-15,000 /month",
+      "other_info": [
+        "Internship with job offer"
+      ]
+    },
+    {
+      "id": 2169957,
+      "title": "Web Development",
+      "company": "Buddha Education Association Incorporation",
+      "company_logo": "https://internshala.com/cached_uploads/logo%2F5f5216193fc151599215129.gif",
+      "location": "Work From Home",
+      "duration": "Starts immediatelyImmediately",
+      "link": "https://internshala.com/internship/detail/web-development-work-from-home-job-internship-at-buddha-education-association-incorporation1683377220",
+      "stipend": "10,000 /month",
+      "other_info": [
+        "Internship",
+        "Part time allowed"
+      ]
+    },
+    {
+      "id": 2171412,
+      "title": "Inside Sales Associate",
+      "company": "Internshala",
+      "company_logo": "https://internshala.com/cached_uploads/logo%2F5e311f012fcb31580277505.jpg",
+      "location": "Gurgaon",
+      "duration": "Starts Immediately",
+      "link": "https://internshala.com/job/detail/inside-sales-associate-fresher-jobs-in-gurgaon-at-internshala1683551461",
+      "stipend": "0-5 years experience",
+      "other_info": [
+        "Job"
+      ]
+    },
+    {
+      "id": 2176191,
+      "title": "PHP Development",
+      "company": "Healtholife Healthcare Private Limited",
+      "company_logo": "https://internshala.com/cached_uploads/logo%2F638836040ba171669871108.png",
+      "location": "Work From Home",
+      "duration": "Starts immediatelyImmediately",
+      "link": "https://internshala.com/internship/detail/php-development-work-from-home-job-internship-at-healtholife-healthcare-private-limited1683963608",
+      "stipend": "7,000-10,000 /month",
+      "other_info": [
+        "Internship"
+      ]
+    },
+    {
+      "id": 2175879,
+      "title": "Flutter Development",
+      "company": "Botlie Software And Consulting Private Limited",
+      "company_logo": "https://internshala.com/cached_uploads/logo%2F62d7cc3d2b3811658309693.png",
+      "location": "Work From Home",
+      "duration": "Starts immediatelyImmediately",
+      "link": "https://internshala.com/internship/detail/flutter-development-work-from-home-job-internship-at-botlie-software-and-consulting-private-limited1683903460",
+      "stipend": "10,000-25,000 /month",
+      "other_info": [
+        "Internship"
+      ]
+    },
+    {
+      "id": 2175875,
+      "title": "Node.js Development",
+      "company": "Botlie Software And Consulting Private Limited",
+      "company_logo": "https://internshala.com/cached_uploads/logo%2F62d7cc3d2b3811658309693.png",
+      "location": "Work From Home",
+      "duration": "Starts immediatelyImmediately",
+      "link": "https://internshala.com/internship/detail/nodejs-development-work-from-home-job-internship-at-botlie-software-and-consulting-private-limited1683903269",
+      "stipend": "10,000-25,000 /month",
+      "other_info": [
+        "Internship"
+      ]
+    },
+    {
+      "id": 2175871,
+      "title": "ReactJS Development",
+      "company": "Botlie Software And Consulting Private Limited",
+      "company_logo": "https://internshala.com/cached_uploads/logo%2F62d7cc3d2b3811658309693.png",
+      "location": "Work From Home",
+      "duration": "Starts immediatelyImmediately",
+      "link": "https://internshala.com/internship/detail/reactjs-development-work-from-home-job-internship-at-botlie-software-and-consulting-private-limited1683903086",
+      "stipend": "10,000-25,000 /month",
+      "other_info": [
+        "Internship with job offer"
+      ]
+    },
+    {
+      "id": 2175436,
+      "title": "Angular Development",
+      "company": "Intelliassist.co",
+      "company_logo": "https://internshala.com/cached_uploads/logo%2F6333e159e57371664344409.png",
+      "location": "Work From Home",
+      "duration": "Starts immediatelyImmediately",
+      "link": "https://internshala.com/internship/detail/angular-development-work-from-home-job-internship-at-intelliassistco1683882803",
+      "stipend": "10,000 /month",
+      "other_info": [
+        "Internship",
+        "Part time allowed"
+      ]
+    },
+    {
+      "id": 2175380,
+      "title": "Backend Development",
+      "company": "Instahyre",
+      "company_logo": "https://internshala.com/cached_uploads/logo%2F5e2fddd63aaf21580195286.png",
+      "location": "Work From Home",
+      "duration": "Starts immediatelyImmediately",
+      "link": "https://internshala.com/internship/detail/backend-development-work-from-home-job-internship-at-instahyre1683880123",
+      "stipend": "30,000 /month",
+      "other_info": [
+        "Internship with job offer"
+      ]
+    },
+    {
+      "id": 2175314,
+      "title": "ASP.NET Development",
+      "company": "Blackcoffer",
+      "company_logo": "https://internshala.com/cached_uploads/logo%2F5e2fdce8a376f1580195048.png",
+      "location": "Work From Home",
+      "duration": "Starts immediatelyImmediately",
+      "link": "https://internshala.com/internship/detail/aspnet-development-work-from-home-job-internship-at-blackcoffer1683876822",
+      "stipend": "6,000-12,000 /month",
+      "other_info": [
+        "Internship with job offer"
+      ]
+    },
+    {
+      "id": 2175116,
+      "title": "MERN Stack Development",
+      "company": "Across The Globe (ATG)",
+      "company_logo": "https://internshala.com/cached_uploads/logo%2F632b287d5668f1663772797.jpg",
+      "location": "Work From Home",
+      "duration": "Starts immediatelyImmediately",
+      "link": "https://internshala.com/internship/detail/mern-stack-development-work-from-home-job-internship-at-across-the-globe-atg1683869494",
+      "stipend": "4,000-10,000 /month",
+      "other_info": [
+        "Internship"
+      ]
+    },
+    {
+      "id": 2174646,
+      "title": "Django Development",
+      "company": "GharChalo",
+      "company_logo": "https://internshala.com/cached_uploads/logo%2F5ecd50c81a3f51590513864.png",
+      "location": "Work From Home",
+      "duration": "Starts immediatelyImmediately",
+      "link": "https://internshala.com/internship/detail/django-development-work-from-home-job-internship-at-gharchalo1683806191",
+      "stipend": "10,000 /month",
+      "other_info": [
+        "Internship",
+        "Part time allowed"
+      ]
+    },
+    {
+      "id": 2174536,
+      "title": "Full Stack Development",
+      "company": "Dobby Ads",
+      "company_logo": "https://internshala.com/cached_uploads/logo%2F60fa898b5bdd11627031947.png",
+      "location": "Work From Home",
+      "duration": "Starts immediatelyImmediately",
+      "link": "https://internshala.com/internship/detail/full-stack-development-work-from-home-job-internship-at-dobby-ads1683805598",
+      "stipend": "15,000-20,000 /month",
+      "other_info": [
+        "Internship"
+      ]
+    },
+    {
+      "id": 2174404,
+      "title": "Full Stack Development",
+      "company": "Instahyre",
+      "company_logo": "https://internshala.com/cached_uploads/logo%2F5e2fddd63aaf21580195286.png",
+      "location": "Work From Home",
+      "duration": "Starts immediatelyImmediately",
+      "link": "https://internshala.com/internship/detail/full-stack-development-work-from-home-job-internship-at-instahyre1683796791",
+      "stipend": "28,000 /month",
+      "other_info": [
+        "Internship with job offer"
+      ]
+    },
+    {
+      "id": 2174402,
+      "title": "Python Development",
+      "company": "Instahyre",
+      "company_logo": "https://internshala.com/cached_uploads/logo%2F5e2fddd63aaf21580195286.png",
+      "location": "Work From Home",
+      "duration": "Starts immediatelyImmediately",
+      "link": "https://internshala.com/internship/detail/python-development-work-from-home-job-internship-at-instahyre1683796740",
+      "stipend": "30,000 /month",
+      "other_info": [
+        "Internship"
+      ]
+    },
+    {
+      "id": 2173219,
+      "title": "Flutter Development",
+      "company": "StudyMonk",
+      "company_logo": "https://internshala.com/cached_uploads/logo%2F5e36e47ef04611580655742.png",
+      "location": "Work From Home",
+      "duration": "Starts immediatelyImmediately",
+      "link": "https://internshala.com/internship/detail/flutter-development-work-from-home-job-internship-at-studymonk1683707489",
+      "stipend": "10,000-15,000 /month",
+      "other_info": [
+        "Internship"
+      ]
+    },
+    {
+      "id": 2173914,
+      "title": "Full Stack Development",
+      "company": "Yougetplaced Technology Services",
+      "company_logo": "https://internshala.com/cached_uploads/logo%2F642799255abc31680316709.jpg",
+      "location": "Work From Home",
+      "duration": "Starts immediatelyImmediately",
+      "link": "https://internshala.com/internship/detail/full-stack-development-work-from-home-job-internship-at-yougetplaced-technology-services1683779124",
+      "stipend": "10,000 /month",
+      "other_info": [
+        "Internship"
+      ]
+    },
+    {
+      "id": 2173912,
+      "title": "JavaScript Development",
+      "company": "Yougetplaced Technology Services",
+      "company_logo": "https://internshala.com/cached_uploads/logo%2F642799255abc31680316709.jpg",
+      "location": "Work From Home",
+      "duration": "Starts immediatelyImmediately",
+      "link": "https://internshala.com/internship/detail/javascript-development-work-from-home-job-internship-at-yougetplaced-technology-services1683779076",
+      "stipend": "10,000 /month",
+      "other_info": [
+        "Internship"
+      ]
+    },
+    {
+      "id": 2173910,
+      "title": "ReactJS Development",
+      "company": "Yougetplaced Technology Services",
+      "company_logo": "https://internshala.com/cached_uploads/logo%2F642799255abc31680316709.jpg",
+      "location": "Work From Home",
+      "duration": "Starts immediatelyImmediately",
+      "link": "https://internshala.com/internship/detail/reactjs-development-work-from-home-job-internship-at-yougetplaced-technology-services1683778948",
+      "stipend": "10,000 /month",
+      "other_info": [
+        "Internship"
+      ]
+    },
+    {
+      "id": 2173909,
+      "title": "Front End Development",
+      "company": "Yougetplaced Technology Services",
+      "company_logo": "https://internshala.com/cached_uploads/logo%2F642799255abc31680316709.jpg",
+      "location": "Work From Home",
+      "duration": "Starts immediatelyImmediately",
+      "link": "https://internshala.com/internship/detail/front-end-development-work-from-home-job-internship-at-yougetplaced-technology-services1683778863",
+      "stipend": "10,000 /month",
+      "other_info": [
+        "Internship"
+      ]
+    },
+    {
+      "id": 2173908,
+      "title": "Web Development",
+      "company": "Yougetplaced Technology Services",
+      "company_logo": "https://internshala.com/cached_uploads/logo%2F642799255abc31680316709.jpg",
+      "location": "Work From Home",
+      "duration": "Starts immediatelyImmediately",
+      "link": "https://internshala.com/internship/detail/web-development-work-from-home-job-internship-at-yougetplaced-technology-services1683778792",
+      "stipend": "10,000 /month",
+      "other_info": [
+        "Internship"
+      ]
+    },
+    {
+      "id": 2173855,
+      "title": "WordPress Development",
+      "company": "Rydeu Logistics UG",
+      "company_logo": "https://internshala.com/cached_uploads/logo%2F5dffb7cf75b091577039823.jpg",
+      "location": "Work From Home",
+      "duration": "Starts immediatelyImmediately",
+      "link": "https://internshala.com/internship/detail/wordpress-development-work-from-home-job-internship-at-rydeu-logistics-ug1683757773",
+      "stipend": "8,000-12,000 /month",
+      "other_info": [
+        "Internship",
+        "Part time allowed"
+      ]
+    },
+    {
+      "id": 2170525,
+      "title": "Web Development- Backend",
+      "company": "Pipesort Technologies LLP",
+      "company_logo": "https://internshala.com/cached_uploads/logo%2F5eabc8b31f8c71588316339.png",
+      "location": "Work From Home",
+      "duration": "Starts immediatelyImmediately",
+      "link": "https://internshala.com/internship/detail/web-development-backend-work-from-home-job-internship-at-pipesort-technologies-llp1683720475",
+      "stipend": "10,000 /month",
+      "other_info": [
+        "Internship"
+      ]
+    },
+    {
+      "id": 2172343,
+      "title": "Angular Development",
+      "company": "Thinklayer Minds Private Limited",
+      "company_logo": "https://internshala.comundefined",
+      "location": "Work From Home",
+      "duration": "Starts immediatelyImmediately",
+      "link": "https://internshala.com/internship/detail/angular-development-work-from-home-job-internship-at-thinklayer-minds-private-limited1683705557",
+      "stipend": "8,000-10,000 /month",
+      "other_info": [
+        "Internship"
+      ]
+    },
+    {
+      "id": 2172551,
+      "title": "DSA+MERN Stack Mentoring",
+      "company": "Codefeast",
+      "company_logo": "https://internshala.com/cached_uploads/logo%2F60a8dae9093091621678825.jpg",
+      "location": "Work From Home",
+      "duration": "Starts immediatelyImmediately",
+      "link": "https://internshala.com/internship/detail/dsa-mern-stack-mentoring-work-from-home-job-internship-at-codefeast1683697068",
+      "stipend": "12,000-25,000 /month",
+      "other_info": [
+        "Internship",
+        "Part time allowed"
+      ]
+    },
+    {
+      "id": 2172780,
+      "title": "Backend Node PostgreSQL Development",
+      "company": "StudyMonk",
+      "company_logo": "https://internshala.com/cached_uploads/logo%2F5e36e47ef04611580655742.png",
+      "location": "Work From Home",
+      "duration": "Starts immediatelyImmediately",
+      "link": "https://internshala.com/internship/detail/backend-node-postgresql-development-work-from-home-job-internship-at-studymonk1683679149",
+      "stipend": "20,000 /month",
+      "other_info": [
+        "Internship"
+      ]
+    },
+    {
+      "id": 2172777,
+      "title": "Flutter Development",
+      "company": "StudyMonk",
+      "company_logo": "https://internshala.com/cached_uploads/logo%2F5e36e47ef04611580655742.png",
+      "location": "Work From Home",
+      "duration": "Starts immediatelyImmediately",
+      "link": "https://internshala.com/internship/detail/flutter-development-work-from-home-job-internship-at-studymonk1683678906",
+      "stipend": "15,000-20,000 /month",
+      "other_info": [
+        "Internship"
+      ]
+    },
+    {
+      "id": 2172774,
+      "title": "Backend Development",
+      "company": "StudyMonk",
+      "company_logo": "https://internshala.com/cached_uploads/logo%2F5e36e47ef04611580655742.png",
+      "location": "Work From Home",
+      "duration": "Starts immediatelyImmediately",
+      "link": "https://internshala.com/internship/detail/backend-development-work-from-home-job-internship-at-studymonk1683678119",
+      "stipend": "15,000-20,000 /month",
+      "other_info": [
+        "Internship"
+      ]
+    },
+    {
+      "id": 2172099,
+      "title": "Teaching (Java Full Stack Development)",
+      "company": "CipherSchools",
+      "company_logo": "https://internshala.com/cached_uploads/logo%2F627e123526fe51652429365.png",
+      "location": "Work From Home",
+      "duration": "Starts immediatelyImmediately",
+      "link": "https://internshala.com/internship/detail/teaching-java-full-stack-development-work-from-home-job-internship-at-cipherschools1683621348",
+      "stipend": "40,000-60,000 /month",
+      "other_info": [
+        "Internship",
+        "Part time allowed"
+      ]
+    },
+    {
+      "id": 2171834,
+      "title": "Backend Development (.NET)",
+      "company": "Reveation Labs",
+      "company_logo": "https://internshala.com/cached_uploads/logo%2F6380621e4c16d1669358110.png",
+      "location": "Work From Home",
+      "duration": "Starts immediatelyImmediately",
+      "link": "https://internshala.com/internship/detail/backend-development-net-work-from-home-job-internship-at-reveation-labs1683611398",
+      "stipend": "10,000 /month",
+      "other_info": [
+        "Internship"
+      ]
+    },
+    {
+      "id": 2171634,
+      "title": "JavaScript Development",
+      "company": "Sarg",
+      "company_logo": "https://internshala.com/cached_uploads/logo%2F640fe5069a1c91678763270.jpeg",
+      "location": "Work From Home",
+      "duration": "Starts immediatelyImmediately",
+      "link": "https://internshala.com/internship/detail/javascript-development-work-from-home-job-internship-at-sarg1683573498",
+      "stipend": "20,000-30,000 /month",
+      "other_info": [
+        "Internship with job offer",
+        "Part time allowed"
+      ]
+    },
+    {
+      "id": 2171817,
+      "title": "Front End Development",
+      "company": "Fyle",
+      "company_logo": "https://internshala.com/cached_uploads/logo%2F5e2fdd205fe081580195104.png",
+      "location": "Work From Home",
+      "duration": "Starts immediatelyImmediately",
+      "link": "https://internshala.com/internship/detail/front-end-development-work-from-home-job-internship-at-fyle1683610797",
+      "stipend": "35,000 /month",
+      "other_info": [
+        "Internship"
+      ]
+    },
+    {
+      "id": 2171486,
+      "title": "Webflow Development",
+      "company": "KoinBasket",
+      "company_logo": "https://internshala.com/cached_uploads/logo%2F62a81b79340de1655184249.png",
+      "location": "Work From Home",
+      "duration": "Starts immediatelyImmediately",
+      "link": "https://internshala.com/internship/detail/webflow-development-work-from-home-job-internship-at-koinbasket1683556851",
+      "stipend": "10,000 /month",
+      "other_info": [
+        "Internship"
+      ]
+    },
+    {
+      "id": 2171654,
+      "title": "Flutter Development",
+      "company": "Chaseout Technologies Private Limited",
+      "company_logo": "https://internshala.com/cached_uploads/logo%2F62f5677ba00081660249979.png",
+      "location": "Work From Home",
+      "duration": "Starts immediatelyImmediately",
+      "link": "https://internshala.com/internship/detail/flutter-development-work-from-home-job-internship-at-chaseout-technologies-private-limited1683580669",
+      "stipend": "7,000-10,000 /month",
+      "other_info": [
+        "Internship"
+      ]
+    },
+    {
+      "id": 2171473,
+      "title": "Golang Development",
+      "company": "Obliq Labs",
+      "company_logo": "https://internshala.comundefined",
+      "location": "Work From Home",
+      "duration": "Starts immediatelyImmediately",
+      "link": "https://internshala.com/internship/detail/golang-development-work-from-home-job-internship-at-obliq-labs1683555846",
+      "stipend": "10,000 /month",
+      "other_info": [
+        "Internship",
+        "Part time allowed"
+      ]
+    },
+    {
+      "id": 2171529,
+      "title": "Full Stack Development",
+      "company": "WedsIn",
+      "company_logo": "https://internshala.comundefined",
+      "location": "Work From Home",
+      "duration": "Starts immediatelyImmediately",
+      "link": "https://internshala.com/internship/detail/full-stack-development-work-from-home-job-internship-at-wedsin1683562116",
+      "stipend": "10,000 /month",
+      "other_info": [
+        "Internship with job offer"
+      ]
+    },
+    {
+      "id": 2170481,
+      "title": "ReactJS Development",
+      "company": "OyeLabs",
+      "company_logo": "https://internshala.com/cached_uploads/logo%2F5de92afc48a161575561980.jpg",
+      "location": "Work From Home",
+      "duration": "Starts immediatelyImmediately",
+      "link": "https://internshala.com/internship/detail/reactjs-development-work-from-home-job-internship-at-oyelabs1683486035",
+      "stipend": "5,000-10,000 /month",
+      "other_info": [
+        "Internship with job offer"
+      ]
+    },
+    {
+      "id": 2170356,
+      "title": "AI Startup Founder",
+      "company": "Persist Ventures",
+      "company_logo": "https://internshala.com/cached_uploads/logo%2F63b35ef24f4b61672699634.jpeg",
+      "location": "Work From Home",
+      "duration": "Starts immediatelyImmediately",
+      "link": "https://internshala.com/internship/detail/ai-startup-founder-work-from-home-job-internship-at-persist-ventures1683463308",
+      "stipend": "10,000-25,000 /month",
+      "other_info": [
+        "Internship"
+      ]
+    },
+    {
+      "id": 2170283,
+      "title": "PHP Development",
+      "company": "Digital Factorys",
+      "company_logo": "https://internshala.comundefined",
+      "location": "Work From Home",
+      "duration": "Starts immediatelyImmediately",
+      "link": "https://internshala.com/internship/detail/php-development-work-from-home-job-internship-at-digital-factorys1683450656",
+      "stipend": "20,000 /month",
+      "other_info": [
+        "Internship"
+      ]
+    },
+    {
+      "id": 2169964,
+      "title": "Full Stack Development",
+      "company": "8kSec LLC",
+      "company_logo": "https://internshala.com/cached_uploads/logo%2F6454bf8a3e3da1683275658.png",
+      "location": "Work From Home",
+      "duration": "Starts immediatelyImmediately",
+      "link": "https://internshala.com/internship/detail/full-stack-development-work-from-home-job-internship-at-8ksec-llc1683431338",
+      "stipend": "15,000 /month",
+      "other_info": [
+        "Internship"
+      ]
+    },
+    {
+      "id": 2167798,
+      "title": "Flutter Development",
+      "company": "Quantum IT Innovation",
+      "company_logo": "https://internshala.comundefined",
+      "location": "Work From Home",
+      "duration": "Starts immediatelyImmediately",
+      "link": "https://internshala.com/internship/detail/flutter-development-work-from-home-job-internship-at-quantum-it-innovation1683196257",
+      "stipend": "8,000-15,000 /month",
+      "other_info": [
+        "Internship with job offer"
+      ]
+    },
+    {
+      "id": 2169957,
+      "title": "Web Development",
+      "company": "Buddha Education Association Incorporation",
+      "company_logo": "https://internshala.com/cached_uploads/logo%2F5f5216193fc151599215129.gif",
+      "location": "Work From Home",
+      "duration": "Starts immediatelyImmediately",
+      "link": "https://internshala.com/internship/detail/web-development-work-from-home-job-internship-at-buddha-education-association-incorporation1683377220",
+      "stipend": "10,000 /month",
+      "other_info": [
+        "Internship",
+        "Part time allowed"
+      ]
+    }
+  ]
 }

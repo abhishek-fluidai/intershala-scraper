@@ -1,12 +1,13 @@
 import https from 'https';
 import fs from 'fs';
 import cheerio from 'cheerio';
+import storeData from './utils/storeData.js';
 
 
-const fetchInterships=(page_num)=> {
+const fetchInterships=(page_num, min_stipend)=> {
   const req = https.request({
     hostname: 'internshala.com',
-    path: '/internships/work-from-home-web-development-internships/stipend-4000' + (page_num > 1 ? '/page-' + page_num : '') ,
+    path: '/internships/work-from-home-web-development-internships/stipend-' + min_stipend +(page_num > 1 ? '/page-' + page_num : '') ,
     method: 'GET'
   }, (res) => {
     let responseData = '';
@@ -17,6 +18,7 @@ const fetchInterships=(page_num)=> {
   
     res.on('end', () => {
       const $ = cheerio.load(responseData);
+      console.log('Fetching page ' + page_num + ' of ' + $('#total_pages').text().trim())
       const dataArr = [];
       $('div[internshipid]').each((i, el) => {
           let company = $(el).find('.view_detail_button')
@@ -33,28 +35,16 @@ const fetchInterships=(page_num)=> {
                 return $(this).text();
               }).get()
           }
-          dataArr.push(data)
+          dataArr.push(data)  // can alo pass a local file path to storeData
          
       });
-      console.log({
-        status: 200,
-        current_page: parseInt($('#pageNumber').text().trim()),
-        total_pages: parseInt($('#total_pages').text().trim()),
-        data: dataArr
-      })
-      fs.writeFile('data.json', JSON.stringify({
-        status: 200,
-        current_page: parseInt($('#pageNumber').text().trim()),
-        total_pages: parseInt($('#total_pages').text().trim()),
-        data: dataArr
-      }), function (err) {
-        if (err) throw err;
-        console.log('Saved!');
-      });
-     
-      // if (parseInt($('#pageNumber').text().trim()) < parseInt($('#total_pages').text().trim())) {
-      //   fetchInterships(parseInt($('#pageNumber').text().trim()) + 1)
-      // }
+
+      // Store the data in a JSON file 
+      storeData(dataArr)
+
+      if (parseInt($('#pageNumber').text().trim()) < parseInt($('#total_pages').text().trim())) {
+        fetchInterships(parseInt($('#pageNumber').text().trim()) + 1)
+      }
 
     });
   });
@@ -66,6 +56,6 @@ const fetchInterships=(page_num)=> {
   req.end();
 }
 
-export default fetchInterships;
+fetchInterships(1, 10000)
 
 
